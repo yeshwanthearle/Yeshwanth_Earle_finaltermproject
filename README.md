@@ -1,4 +1,5 @@
-#Yeshwanth Earle Finaltermproject
+**Yeshwanth Earle Finaltermproject**
+
 Implimentation of machine learning classification algorithms
 1. Support vector machine
 2. KNN
